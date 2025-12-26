@@ -66,7 +66,7 @@ def generate_audio():
         ),
     )
 
-    print("Generiere Audio...")
+    print("Generiere text_to_speach_mp3...")
 
     # Gesamtdaten sammeln
     audio_bytes = b""

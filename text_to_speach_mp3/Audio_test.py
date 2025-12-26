@@ -9,7 +9,7 @@ In die Zweites Spalte den Namen der Aktien und in die dritte den Kommentar, der 
 In die vierte Spalte bitte die Kategorie, die oberhalb angegeben wurde, wie zum Beispiel Robotik oder Infrastruktur oder Quantencomputer.
 """
 
-# Erstellen des Audio-Objekts (Sprache: Deutsch)
+# Erstellen des text_to_speach_mp3-Objekts (Sprache: Deutsch)
 tts = gTTS(text=text, lang='de')
 
 # Speichern der Datei
